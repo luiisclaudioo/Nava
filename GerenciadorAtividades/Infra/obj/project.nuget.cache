@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DylG4x3ufVv/UzL0yk2PjtrFrtpoSQ272SQcBnRcygp/Z7G3tfh8SndZd7nIHw3MGvjEkIdJeEX5CoJbngh8VA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Nava\\GerenciadorAtividades\\Infra\\Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis Claudio\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Luis Claudio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Luis Claudio\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Luis Claudio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

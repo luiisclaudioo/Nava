@@ -1,0 +1,12 @@
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\dev\SupplierApi\src\GerenciadorAtividades\Dominio\obj\Debug\net6.0\ref\Dominio.dll

@@ -1,0 +1,15 @@
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\obj\Debug\net6.0\Aplicacao.csproj.AssemblyReference.cache
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\obj\Debug\net6.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\obj\Debug\net6.0\Aplicacao.AssemblyInfoInputs.cache
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\obj\Debug\net6.0\Aplicacao.AssemblyInfo.cs
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\obj\Debug\net6.0\Aplicacao.csproj.CoreCompileInputs.cache
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\bin\Debug\net6.0\Aplicacao.deps.json
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\bin\Debug\net6.0\Aplicacao.dll
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\bin\Debug\net6.0\Aplicacao.pdb
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\bin\Debug\net6.0\Dominio.dll
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\bin\Debug\net6.0\Dominio.pdb
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\obj\Debug\net6.0\Aplicacao.csproj.CopyComplete
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\obj\Debug\net6.0\Aplicacao.dll
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\obj\Debug\net6.0\refint\Aplicacao.dll
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\obj\Debug\net6.0\Aplicacao.pdb
+C:\dev\SupplierApi\src\GerenciadorAtividades\Aplicacao\obj\Debug\net6.0\ref\Aplicacao.dll
